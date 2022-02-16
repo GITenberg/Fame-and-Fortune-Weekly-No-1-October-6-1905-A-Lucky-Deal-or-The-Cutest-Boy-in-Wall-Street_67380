@@ -1,11 +1,16 @@
 _repo: Fame-and-Fortune-Weekly-No-1-October-6-1905-A-Lucky-Deal-or-The-Cutest-Boy-in-Wall-Street_67380
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67380-h/images/cover.jpg
 creator:
   author:
     agent_name: Man, Self-Made
     gutenberg_agent_id: '54238'
     url: http://www.gutenberg.org/2009/agents/54238
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67380#Fame-and-Fortune-Weekly-No-1-October-6-1905-A-Lucky-Deal-or-The-Cutest-Boy-in-Wall-Street
 gutenberg_issued: '2022-02-12'
 identifiers:
   gutenberg: '67380'
